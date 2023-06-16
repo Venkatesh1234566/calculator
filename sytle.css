@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(139, 143, 149);
+}
+#n1{
+ background-color: rgb(97, 100, 99);
+}
+#n2{
+    background-color: rgb(97, 100, 99);
+   }
+::placeholder{
+    color: rgb(206, 213, 220);
+}
+#add{
+    background-color: rgb(247, 235, 13);
+}
+#sub{
+    background-color: rgb(247, 235, 13);
+}
+#mul{
+    background-color: rgb(247, 235, 13);
+}
+#div{
+    background-color: rgb(247, 235, 13);
+}
+#equal{
+    background-color: rgb(247, 235, 13);
+}
+#reload{
+    background-color: rgb(247, 235, 13);
+}
+#result{
+    
+        width:fit-content;
+    background-color: aquamarine;
+}
+.cont{
+    width:400px;
+    height:450px;
+    background-color: rgb(13, 13, 13);
+    margin: auto;
+    margin-top: 8%;
+    border-radius: 8%;
+    position: relative;
+}
+.val{
+    margin: auto;
+    margin-left: 7%;
+    margin-top: 20%;
+    position: absolute;
+}
+#result{
+    margin-left: 35%;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5%;
+}
+.med{
+    margin-left: 8%;
+}
+#wait{
+    width: 20px;
+    width:fit-content;
+    height:30px;
+    background-color: aquamarine;
+    margin-left: 35%;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5%;
+}
+#equal{
+    margin-left: 33%;
+}
+.reload{
+    margin-top: 4%;
+    margin-left: -12%;
+}
+h2{
+    margin-left: 22%;
+    position: absolute;
+    color: aliceblue;
+}
